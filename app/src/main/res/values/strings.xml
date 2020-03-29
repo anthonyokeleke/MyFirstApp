@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="kotlin_task">KOTLIN Task</string>
+    <string name="name">Name</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="tracks">Tracks</string>
+    <string name="email">Email</string>
+    <string name="anthony_okeleke">Anthony Okeleke</string>
+    <string name="back">Back</string>
+    <string name="anthonyokeleke">anthonyokeleke</string>
+    <string name="previous">Previous</string>
+    <string name="oaokeleke_gmail_com">oaokeleke@gmail.com</string>
+    <string name="image1">image1</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="front_end">Front End</string>
+    <string name="html_css_js">HTML / CSS / JS</string>
+    <string name="design">Design</string>
+    <string name="ui_ux">UI/UX</string>
+    <string name="mobile">Mobile</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="tracks_and_courses">Tracks and Courses</string>
+    <string name="home_page">Home Page</string>
+    <string name="previous2">Previous2</string>
+</resources>
